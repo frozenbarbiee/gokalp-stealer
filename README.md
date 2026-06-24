@@ -1,0 +1,2 @@
+# gokalp-stealer
+veled bot
