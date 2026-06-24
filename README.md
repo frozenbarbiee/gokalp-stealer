@@ -1,2 +1,3 @@
 # gokalp-stealer
-veled bot
+veled bot-full javascript
+
